@@ -1,0 +1,13 @@
+body {
+    
+    background-color: #cccccc;
+    background: url(myhero2.jpg);
+   }
+   h1{
+    font-family: 'Bangers', cursive;
+      font-size: 50px;
+      align-content: center;
+   }
+   #title{
+       color:#fff700
+   }
